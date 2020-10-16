@@ -1,0 +1,39 @@
+/* Font weights */
+
+.fw-normal {
+  font-weight: normal;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+
+/* Font sizes */
+
+.fs-0 {
+  font-size: 1rem;
+}
+
+.fs-1 {
+  font-size: 1.1rem;
+}
+
+.fs-2 {
+  font-size: 1.21rem;
+}
+
+.fs-3 {
+  font-size: 1.331rem;
+}
+
+.fs-4 {
+  font-size: 1.4641rem;
+}
+
+.fs-5 {
+  font-size: 1.61051rem;
+}
+
+.fs-6 {
+  font-size: 1.771561rem;
+}
