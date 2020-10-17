@@ -32,6 +32,28 @@
   display: inline-grid;
 }
 
+/* Position */
+
+.static {
+  position: static;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.sticky {
+  position: sticky;
+}
+
 /* Container */
 
 .container {
